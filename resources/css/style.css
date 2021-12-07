@@ -40,3 +40,7 @@ a {
 .footer p {
     text-align: right;
 }
+
+.name {
+    font-size: small;
+}
