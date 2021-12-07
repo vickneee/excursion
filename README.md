@@ -1,3 +1,3 @@
-Excursion
-<hr>
-Codecademy Project - Excursion site page.
+
+Codecademy Off-Platform Project - Excursion.
+
