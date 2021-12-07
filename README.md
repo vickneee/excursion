@@ -1,2 +1,3 @@
 Excursion
-Codecademy Project- Excursion site page.
+<hr>
+Codecademy Project - Excursion site page.
